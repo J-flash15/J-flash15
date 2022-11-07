@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, here is What I am Working On! 👋
 
 - 🔭 I’m currently working on ...WaveForm project in Python 
 - 🌱 I’m currently learning ...Python
