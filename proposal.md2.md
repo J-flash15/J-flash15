@@ -38,13 +38,13 @@ TODO, if applicable
 
 TODO
 
-Doing this project would teach me something new in python.  
+Doing this project would teach me something new in python Audio file, readFrame, some much more. 
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
 TODO
 
-Get much done by trying my best. 
+i think i can Get much done if i persevere and use imagination and a plan 
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
@@ -53,7 +53,7 @@ Get much done by trying my best.
 TODO
 
 
-I am learning how to write a nice algorithm code. 
+I am learning how to write a Structural algorithm code. and i am still thinking of other features of the project. 
 
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
