@@ -1,4 +1,4 @@
-### Hi there, Shamar! 👋
+### Hi there, I AM Shamar! 👋
 
 - 🔭 I’m currently working on ...WaveForm project in Python 
 - 🌱 I’m currently learning ...Python
