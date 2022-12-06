@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ...Python
 - 👯 I’m looking to collaborate on ...python waveForm 
 - 🤔 I’m looking for help with ...I want to be better at Java/C++ 
-- 💬 Ask me about ...Projects 
+- 👨‍💻 all of my Projects/C++/python....[Shamar/](https://github.com/J-flash15)
 - 📫 How to reach me: ...[twitter/@ShamarockGJ](https://twitter.com/ShamrockGJ)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am very curious about everything in life and what is Computer science? 
