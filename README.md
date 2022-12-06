@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ...I want to be better at Java/C++ 
 - 👨‍💻 all of my Projects/C++/python....[SJGordon
 J-flash15](https://github.com/J-flash15)
-- 📫 How to reach me: ...(shamar101s@icloud.comur)
+- 📫 How to reach me: ...shamar101s@icloud.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am very curious about everything in life and what is Computer science? 
 -->
