@@ -1,6 +1,6 @@
 ### Hi there, I AM Shamar! 👋
 
-- 🔭 I’m currently working on ...WaveForm project in Python README.md
+- 🔭 I’m currently working on ...WaveForm project in Python
 - 🌱 I’m currently learning ...Python
 - 👯 I’m looking to collaborate on ...python waveForm 
 - 🤔 I’m looking for help with ...I want to be better at Java/C++ 
